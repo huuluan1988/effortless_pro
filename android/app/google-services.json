@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52565161143",
+    "firebase_url": "https://effortlessenglishpro.firebaseio.com",
+    "project_id": "effortlessenglishpro",
+    "storage_bucket": "effortlessenglishpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52565161143:android:a817fb3337b9c313bdc932",
+        "android_client_info": {
+          "package_name": "com.effortlessenglishpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52565161143-6s7uohm8q8bpemki5njjtgmrb8v3teja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwmFYR-U2PlwdAK9AzXOhWcRzyvgjFJ1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52565161143-6s7uohm8q8bpemki5njjtgmrb8v3teja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
